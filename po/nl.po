@@ -6997,7 +6997,7 @@ msgstr "Cz"
 
 #: ../src/develop/blend_gui.c:2044
 msgid "sliders for chroma channel (of JzCzhz)"
-msgstr "schuifregelaars voor chromakalaal (van JzCzhz)"
+msgstr "schuifregelaars voor chromakanaal (van JzCzhz)"
 
 #: ../src/develop/blend_gui.c:2048
 msgid "hz"
@@ -22677,7 +22677,7 @@ msgstr "overbelichting/knop"
 #: ../src/views/darkroom.c:3884
 msgctxt "accel"
 msgid "cycle overlay colors"
-msgstr "draai overlay kleuren"
+msgstr "wissel overlay kleuren"
 
 #. toggle softproofing
 #: ../src/views/darkroom.c:3887
