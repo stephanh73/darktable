@@ -7956,7 +7956,7 @@ msgstr "geen afbeelding geselecteerd!"
 
 #: ../src/dtgtk/resetlabel.c:59
 msgid "double-click to reset"
-msgstr "dubbelklikken is resetten"
+msgstr "dubbelklikken om te resetten"
 
 #: ../src/dtgtk/thumbnail.c:92 ../src/dtgtk/thumbnail.c:118
 msgid "current"
@@ -8105,7 +8105,7 @@ msgstr "selecteer map"
 #: ../src/dtgtk/thumbtable.c:2331 ../src/libs/select.c:381
 msgctxt "accel"
 msgid "select untouched"
-msgstr "selecteer niet aangeraakte"
+msgstr "selecteer onbewerkte"
 
 #. Column 1 - "make" of the camera.
 #. * Column 2 - "model" (use the "make" and "model" as provided by DCRaw).
@@ -8148,7 +8148,7 @@ msgstr "gloeilamp warm"
 #. Same as "Incandescent":
 #: ../src/external/wb_presets.c:54
 msgid "tungsten"
-msgstr "wolfraam"
+msgstr "kunstlicht"
 
 #: ../src/external/wb_presets.c:55
 msgid "fluorescent"
@@ -24140,7 +24140,7 @@ msgstr "muisacties"
 #~ "ctrl+click to add multiple circles"
 #~ msgstr ""
 #~ "cirkel toevoegen\n"
-#~ "ctrl + klik om meerdere kringen toe te voegen"
+#~ "ctrl+klik om meerdere cirkels toe te voegen"
 
 #~ msgid ""
 #~ "add brush\n"
